@@ -1,0 +1,38 @@
+[11516] 10 Dec 16:25:02.406 * Node configuration loaded, I'm 5f1539d479c3e435982a9034eeb03339dce4c21f
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 3.0.504 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in cluster mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 7000
+ |    `-._   `._    /     _.-'    |     PID: 11516
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[11516] 10 Dec 16:25:02.407 # Server started, Redis version 3.0.504
+[11516] 10 Dec 16:25:02.408 * The server is now ready to accept connections on port 7000
+[11516] 10 Dec 16:25:30.061 # User requested shutdown...
+[11516] 10 Dec 16:25:30.061 * Calling fsync() on the AOF file.
+[11516] 10 Dec 16:25:30.062 # Redis is now ready to exit, bye bye...
+[11656] 10 Dec 16:25:56.134 * Node configuration loaded, I'm 5f1539d479c3e435982a9034eeb03339dce4c21f
+[11656] 10 Dec 16:25:56.140 * Redis 3.0.504 (00000000/0) 64 bit, cluster mode, port 7000, pid 11656 ready to start.
+[11656] 10 Dec 16:25:56.142 # Server started, Redis version 3.0.504
+[11656] 10 Dec 16:25:56.143 * The server is now ready to accept connections on port 7000
+[11656] 10 Dec 16:26:00.650 # User requested shutdown...
+[11656] 10 Dec 16:26:00.652 * Calling fsync() on the AOF file.
+[11656] 10 Dec 16:26:00.656 # Redis is now ready to exit, bye bye...
+[14408] 10 Dec 16:27:48.124 * Node configuration loaded, I'm 5f1539d479c3e435982a9034eeb03339dce4c21f
+[14408] 10 Dec 16:27:48.128 * Redis 3.0.504 (00000000/0) 64 bit, cluster mode, port 7000, pid 14408 ready to start.
+[14408] 10 Dec 16:27:48.129 # Server started, Redis version 3.0.504
+[14408] 10 Dec 16:27:48.131 * The server is now ready to accept connections on port 7000
+[14408] 10 Dec 16:27:52.963 # User requested shutdown...
+[14408] 10 Dec 16:27:52.965 * Calling fsync() on the AOF file.
+[14408] 10 Dec 16:27:52.967 # Redis is now ready to exit, bye bye...
